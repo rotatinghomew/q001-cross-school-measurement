@@ -1,0 +1,4 @@
+school,student_key,plan_version,course_code,course_kind,enrollment_state,activity_code,mapping_version,evidence_ref
+海岬医学院,S-A17,2025-A,HUM101,required,completed,seminar,M3,EV-001
+青禾医学院,S-B08,2025-B,CLN204,elective,withdrawn,ward_reflection,M2,EV-002
+松港医学院,S-C31,2026-A,MICRO02,micro,in_progress,case_discussion,M3,EV-003
